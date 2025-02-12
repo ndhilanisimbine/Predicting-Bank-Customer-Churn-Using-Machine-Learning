@@ -69,7 +69,6 @@ We experiment with different **classification models**:
   - **Number of Products** (Customers with 1 product churn more)
   - **IsActiveMember** (Inactive members are more likely to leave)
   - **Geography** (Churn rate varies by country)
-- **Best Performing Model:** **[Model Name] with X% Accuracy**
-- **Actionable Insights for Retention Strategies** 📈
+  
 
 ---
